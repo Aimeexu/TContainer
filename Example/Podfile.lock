@@ -1,0 +1,16 @@
+PODS:
+  - TContainer (0.1.0)
+
+DEPENDENCIES:
+  - TContainer (from `../`)
+
+EXTERNAL SOURCES:
+  TContainer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TContainer: bef95c07ac5b4b79a4b84ce8a448a4aa2b60e708
+
+PODFILE CHECKSUM: 0635692845a100a71643afb512258ed111717c16
+
+COCOAPODS: 1.11.3
